@@ -1,10 +1,17 @@
 <div align="center">
 
+<!-- Animated typing header -->
+<a href="https://mutqanhq.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=From+Complex+Logic+to+Seamless+Realities+%E2%9A%A1%EF%B8%8F;نهندس+المستقبل+الرقمي+بدقة+لا+تُضاهى;SaaS+%7C+Microservices+%7C+Cloud+Infrastructure;نُتقن+أو+لا+نفعل" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 <img src="https://i.ibb.co/JwzSvBC8/Gemini-Generated-Image-qvcnfaqvcnfaqvcn.png" alt="MUTQAN Logo" width="140" />
 
 <br/>
 
-<img src="https://i.ibb.co/ynrV1BYT/Chat-GPT-Image-Jun-18-2026-08-23-46-PM.png" alt="MUTQAN Banner" width="100%" style="border-radius: 12px;" />
+<img src="https://i.ibb.co/ynrV1BYT/Chat-GPT-Image-Jun-18-2026-08-23-46-PM.png" alt="MUTQAN Banner" width="100%" />
 
 <br/><br/>
 
@@ -20,9 +27,41 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_الموقع-mutqanhq.com-0D0D0D?style=for-the-badge&logoColor=39FF14)](https://mutqanhq.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mutqan_HQ-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com)
-[![X](https://img.shields.io/badge/X-@mutqanhq-0D0D0D?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/mutqanhq)
+<!-- Social Media Badges - Animated wave -->
+<p align="center">
+  <a href="https://mutqanhq.com">
+    <img src="https://img.shields.io/badge/🌐 الموقع-mutqanhq.com-0D0D0D?style=for-the-badge&logoColor=39FF14" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/mutqanhq">
+    <img src="https://img.shields.io/badge/Facebook-mutqanhq-0D0D0D?style=for-the-badge&logo=facebook&logoColor=39FF14" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mutqanhq">
+    <img src="https://img.shields.io/badge/Instagram-mutqanhq-0D0D0D?style=for-the-badge&logo=instagram&logoColor=39FF14" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tiktok.com/@mutqanhq">
+    <img src="https://img.shields.io/badge/TikTok-@mutqanhq-0D0D0D?style=for-the-badge&logo=tiktok&logoColor=39FF14" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/mutqanhq">
+    <img src="https://img.shields.io/badge/X_(Twitter)-@mutqanhq-0D0D0D?style=for-the-badge&logo=x&logoColor=39FF14" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@mutqanhq">
+    <img src="https://img.shields.io/badge/YouTube-@mutqanhq-0D0D0D?style=for-the-badge&logo=youtube&logoColor=39FF14" />
+  </a>
+</p>
+
+<!-- Animated snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -137,12 +176,25 @@
 
 <div align="center">
 
-هل لديك فكرة تستحق أن تُبنى بإتقان؟
-
-[![Email](https://img.shields.io/badge/📧_راسلنا-0D0D0D?style=for-the-badge&logoColor=39FF14)](mailto:hello@mutqanhq.com)
-[![Website](https://img.shields.io/badge/🌐_mutqanhq.com-0D0D0D?style=for-the-badge&logoColor=39FF14)](https://mutqanhq.com)
+**هل لديك فكرة تستحق أن تُبنى بإتقان؟ — نحن هنا.**
 
 <br/>
+
+<a href="https://mutqanhq.com"><img src="https://img.shields.io/badge/🌐 الموقع-mutqanhq.com-0D0D0D?style=for-the-badge&logoColor=39FF14" /></a>
+<a href="mailto:hello@mutqanhq.com"><img src="https://img.shields.io/badge/📧 Email-hello@mutqanhq.com-0D0D0D?style=for-the-badge&logoColor=39FF14" /></a>
+
+<br/><br/>
+
+<a href="https://facebook.com/mutqanhq"><img src="https://img.shields.io/badge/Facebook-0D0D0D?style=for-the-badge&logo=facebook&logoColor=39FF14" /></a>
+<a href="https://instagram.com/mutqanhq"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
+<a href="https://tiktok.com/@mutqanhq"><img src="https://img.shields.io/badge/TikTok-0D0D0D?style=for-the-badge&logo=tiktok&logoColor=39FF14" /></a>
+<a href="https://x.com/mutqanhq"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
+<a href="https://youtube.com/@mutqanhq"><img src="https://img.shields.io/badge/YouTube-0D0D0D?style=for-the-badge&logo=youtube&logoColor=39FF14" /></a>
+
+<br/><br/>
+
+<!-- Animated footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=80&section=footer&fontColor=0D0D0D" width="100%" />
 
 <sub>⚡️ Engineered to Perfection by <b>MUTQAN Team</b> — نُتقن أو لا نفعل.</sub>
 
